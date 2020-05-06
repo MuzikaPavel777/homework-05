@@ -113,7 +113,7 @@ input[type="radio"].visually-hidden {
   width: 104px;
   height: 104px;
   border: none;
-  background-image: url(../icons/left.png);
+  background-image: url(./icons/left.png);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-color: #4e9c8a;
@@ -124,7 +124,7 @@ input[type="radio"].visually-hidden {
   width: 104px;
   height: 104px;
   border: none;
-  background-image: url(../icons/right.png);
+  background-image: url(./icons/right.png);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-color: #4e9c8a;
@@ -259,16 +259,16 @@ input[type="radio"].visually-hidden {
   background-color: #1abc9c;
 }
 .like {
-  background-image: url(../icons/like.png);
+  background-image: url(./icons/like.png);
 }
 .shuffle {
-  background-image: url(../icons/shuffle.png);
+  background-image: url(./icons/shuffle.png);
 }
 .clock {
-  background-image: url(../icons/clock.png);
+  background-image: url(./icons/clock.png);
 }
 .cart {
-  background-image: url(/../icons/cart.png);
+  background-image: url(/./icons/cart.png);
 }
 .cart {
   margin-top: 8px;
